@@ -61,8 +61,8 @@
 
 ## 🚀 Link To React App <a name="live-demo"></a>
 
-- [Link to React App PR]()
-- [Link to React App setup]()
+- [Link to React App PR](https://github.com/melkamu12/hello-react-front-end/pull/1)
+- [Link to React App setup](https://github.com/melkamu12/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
